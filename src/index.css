@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  background-color: #ffe4c4;
+  background-image: url("https://www.transparenttextures.com/patterns/food.png");
+  box-sizing: border-box;
+  width: 100%;
+  overflow-x: hidden;
+}

@@ -1,0 +1,21 @@
+.header {
+    background-color: #f3931e;
+    color: white;
+    display: flex;
+    gap: 1rem;
+    padding: 20px;
+    padding-left: 40px;
+    width: 100%;
+    
+}
+
+.header h2{
+    margin: 0;
+    font-size: 2rem;
+    font-family: 'Pacifico', cursive;
+}
+
+.icon {
+    margin: 0;
+    font-size: 3rem;
+}
